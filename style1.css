@@ -1,0 +1,42 @@
+body{
+  background-color: #191970;
+  color:#8b4513;
+}
+.heading{
+  font-style: italic;
+  background-color: #daf;
+  font-size: 35px;
+  color:#2f4f4f;
+  width: 1000px;
+  padding-left: 150px;
+  margin-left: 100px;
+  height: 45px;
+}
+.inputBox{
+  width: 450px;
+  height: 30px;
+  font-size: 20px;
+}
+.add_item{
+  background-color: red;
+  width:50px;
+  border: none;
+  height: 30px;
+  box-shadow: 5px 5px;
+}
+.list{
+  width: 450px;
+  font-size: 22px;
+  font-family: cursive;
+  height: 100px auto;
+  background-color: #708090;
+}
+.btn{
+  background-color: green;
+  color:white;
+  border: none;
+  padding: 5px;
+  margin-left: 10px;
+  width:35px;
+  height: 25px;
+}
